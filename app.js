@@ -10,7 +10,6 @@ function adicionarAmigo() {
         alert('Por favor, insira um nome.');
     } else {
         amigos.push(nome);
-        console.log(amigos);
         limparCampo();
         listarAmigos();
     }
@@ -39,8 +38,6 @@ function sortearAmigo() {
     if (amigos.length !== 0) {
         let indiceSorteado = Math.floor(Math.random() * amigos.length)
         let nome = amigos[indiceSorteado];
-        console.log(indiceSorteado)
-        console.log(nome)
         document.getElementById('resultado').innerHTML = `Amigo sorteado: ${nome}`;
     }
 }
