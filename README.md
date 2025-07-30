@@ -24,14 +24,7 @@ Este projeto é uma aplicação web simples desenvolvida com HTML, CSS e JavaScr
 - O sorteio seleciona apenas um participante por execução.
 - O projeto não realiza emparelhamento completo (ex: quem dá presente para quem), apenas sorteia um nome aleatoriamente da lista.
 
-📁 Estrutura dos Arquivos
-amigo-secreto/
-├── index.html       # Página principal
-├── style.css        # Estilos e layout
-└── script.js        # Lógica do programa
-
 💡 Melhorias Futuras
 - Adicionar lógica para emparelhar todos os participantes
 - Implementar funcionalidades para salvar/exportar os resultados
-
-Melhorar o design e a experiência do usuário
+- Melhorar o design e a experiência do usuário
