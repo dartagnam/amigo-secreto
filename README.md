@@ -9,10 +9,10 @@ Este projeto é uma aplicação web simples desenvolvida com HTML, CSS e JavaScr
 - JavaScript — manipulação de DOM, lógica de sorteio e interações com o usuário
 
 # :hammer: Funcionalidades
-- `Funcinalidade 1`: Adição de nomes à lista de participantes
-- `Funcinalidade 2`: Exibição dinâmica da lista de amigos
-- `Funcinalidade 3`: Sorteio aleatório de um nome
-- `Funcinalidade 4`: Validação de entrada para garantir que o campo não esteja vazio
+- `Funcionalidade 1`: Adição de nomes à lista de participantes
+- `Funcionalidade 2`: Exibição dinâmica da lista de amigos
+- `Funcionalidade 3`: Sorteio aleatório de um nome
+- `Funcionalidade 4`: Validação de entrada para garantir que o campo não esteja vazio
 
 ▶️ Como Usar
 - `1º`: Abra o arquivo index.html em seu navegador.
