@@ -1,1 +1,1 @@
-![Logo Projeto Amigo Secreto]([url da imagem gerado pelo serviço de hospedagem ou GitHub](https://imgur.com/a/vI9voRT))
+![Logo Projeto Amigo Secreto](https://imgur.com/a/vI9voRT)
